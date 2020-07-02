@@ -1,4 +1,4 @@
-$('i.fas fa-bars').click(
+$('div.header-right > a').click(
   function () {
     $('div.hamburger-menu').css('display','block');
   }
